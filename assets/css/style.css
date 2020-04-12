@@ -4,7 +4,7 @@ body {
     line-height: 2;
     margin-bottom: 0;
 }
-background {
+.background {
     background-image: url("sun-patter.png");
 }
 
@@ -132,10 +132,9 @@ input[type=submit] {
     padding: 10px 30px;
     color: #ffffff;
     font-size: 20px;
-    margin-bottom: 200px;
 }
 
-.footer {
+footer {
     clear: both;
     position: sticky;
     background: #666666;
@@ -144,4 +143,5 @@ input[type=submit] {
     color: #ffff;
     padding: 30px, 0;
     bottom: 0;
+    margin-top: 200px;
 }

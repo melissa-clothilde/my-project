@@ -33,6 +33,11 @@ h1, h2, h3, p {
     margin-bottom: 20px;
 }
 
+h3 {
+    margin-top: 0;
+    margin-left: 18px;
+}
+
 .Melissa {
     float: left;
     width: 250px;

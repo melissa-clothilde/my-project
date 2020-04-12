@@ -83,10 +83,10 @@ img {
 }
 
 .items {
-    width: 274px;
+    width: 250px;
     overflow: auto;
     float: left;
-    margin: 20px 0 25px;
+    margin: 20px;
 }
 
 .item img {
